@@ -95,4 +95,5 @@ npm node index.js
 
 ## License
 
-MIT License © 2025 Fazeen Patel.
+MIT License © 2025 Nikhil Ashish Shah.
+
